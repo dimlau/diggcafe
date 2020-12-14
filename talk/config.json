@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://kaix.in",
-            "server_name": "开心聊"
+            "base_url": "https://tzcafe.com",
+            "server_name": "TzCafe.com"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
@@ -10,9 +10,9 @@
     },
     "disable_custom_urls": true,
     "disable_guests": false,
-    "disable_login_language_selector": true,
+    "disable_login_language_selector": flase,
     "disable_3pid_login": false,
-    "brand": "开心聊",
+    "brand": "定格聊天室",
     "integrations_ui_url": "https://scalar.vector.im/",
     "integrations_rest_url": "https://scalar.vector.im/api",
     "integrations_widgets_urls": [
