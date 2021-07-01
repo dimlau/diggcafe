@@ -181,7 +181,7 @@ section {
 }
 .kxtp{
 /* 	固定页脚 */
-	flex: 1;
+/*	flex: 1; */
 }
 .kx-co {
   padding-left: 15rem;
